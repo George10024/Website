@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Games</title>
+    <link type="text/css" rel="stylesheet"
+          href="css/my-first-stylesheet.css"/>
+</head>
+<body>
+<script type="text/javascript" src="swapper.js">
+</script>
+</body>
+</html>
