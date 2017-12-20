@@ -23,3 +23,8 @@ h2 {
 h3 {
     background-color: #42d1f4 
 }
+aside {
+    float:right;
+        padding-right: 24 px;
+    width :34%;
+}
